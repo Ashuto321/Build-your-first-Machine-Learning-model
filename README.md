@@ -1,6 +1,5 @@
 🧠 Build Your First Machine Learning Model
 
-
 In this repository, I've created a simple and effective machine learning project that demonstrates how to:
 
 Train models using Linear Regression and Random Forest Regression
